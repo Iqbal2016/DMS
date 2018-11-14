@@ -1,0 +1,19 @@
+	tr th{
+		text-align: center;
+	}
+	
+	#btnPrint{
+		margin-left: 35px;
+		padding-right: 30px;
+	}
+	
+	#divmain{
+		padding: 15px 0px;
+	}
+	
+	#divformat{
+		float:right;
+	}
+	
+	
+	

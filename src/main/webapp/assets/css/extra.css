@@ -1,0 +1,112 @@
+/*****Maruf*****/
+/* .accordion .panel-heading .accordion-toggle, h2, h4, select.form-control
+	{
+	color: #5b5b60 !important;
+}
+
+select.form-control {
+	background: none !important;
+}
+li, p {
+	color: #858585 !important;
+}
+
+label {
+	margin-bottom: 5px !important;
+	color: #858585 !important;
+}
+
+fieldset {
+	padding: 20px 20px 10px 20px !important;
+}
+
+#add_site_fieldset, #agreed_price_fieldset {
+	padding-left: 5px !important;
+	padding-right: 5px !important;
+	padding-top: 25px !important;
+	padding-bottom: 25px !important;
+	margin: 15px !important;
+}
+
+select.form-control, input.form-control {
+	height: 34px !important;
+	font-size: 13px !important;
+}
+
+.btn {
+	border-radius: 0px;
+}
+
+input[type="text"] {
+	padding: 5px 4px;
+	color: #5b5b60 !important;
+	font-size: 13px !important;
+}
+
+#location>img {
+	width: 452px;
+}
+
+.datepicker {
+	width: 205px !important;
+}
+
+.btn-plus, .add-row {
+	color: #007AFF;
+	border: 1px solid #0088ff;
+	margin-left: 5px;
+}
+
+.circleBtn {
+	font-size: 25px;
+	border: none !important;
+	background: none !important;
+}
+
+.tab_title {
+	font-family: "Lato", sans-serif;
+	color: #007AFF !important;
+	font-size: 15px;
+	padding-bottom: 15px;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus
+	{
+	color: #555;
+	cursor: default;
+	background-color: #fff;
+	border-bottom-color: transparent;
+	border-left-color: transparent;
+}
+
+.user-image img {
+	max-width: 200px !important;
+	min-width: 200px !important;
+	max-height: 183px !important;
+	min-height: 183px !important;
+}
+
+.white-label {
+	color: white !important;
+}
+
+.btn-primary.active {
+	font-weight: bold !important;
+}
+
+.table>thead:first-child>tr:first-child>th, .table.table-bordered>tbody>tr>td,
+	div.dataTables_info {
+	color: #5b5b60 !important;
+}
+
+.btn-save {
+	background-color: #007AFF !important;
+	border-color: #007AFF !important;
+	color: #ffffff !important;
+	width: 120px;
+	font-weight: bold;
+}
+
+.textBoxMargin {
+	margin-top: 5px;
+} */

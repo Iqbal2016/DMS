@@ -1,0 +1,152 @@
+/* Please do not write any inline or internal CSS. Please write your CSS here. 
+   Before writing, make sure that you've pulled first. */
+   
+
+   
+/*   Afsana  */
+   
+  
+
+#standardInvoice{
+border-left:0px;
+}
+
+#attachmentTable {margin-left:10px;margin-right:10px; width:97% !important;}
+
+ #td3, #td4, #td5, #td6, #td7, #td8 
+	{
+     margin-bottom: -8px;
+     margin-top: -8px;
+     
+     text-align: right !important;
+     background-color: white !important;
+	} 
+ 
+ #std_inv {padding-top: 20px;} 
+   
+ #adrs_bill, #adrs_payer{padding-left: 20px;}
+   
+ #invoice  {padding-bottom: 0px;padding-top: 0px; padding-left: 0px; padding-right: 25px;}
+ 
+#customer1,#customer2   {padding-bottom: 0px;padding-top: 0px; padding-left: 2px; padding-right: 0px;} 
+ 
+ 
+ .c_title  {
+   				padding-bottom: 10px;padding-top: 0px;padding-left: 0px;margin-left: 0px;
+                font-family: "Lato", sans-serif;
+                color: #007AFF !important;
+                font-size: 15px;
+                padding-bottom: 10px;
+            }
+            
+            
+#tab_title_1, #tab_title_2, #tab_title_3{
+   				padding-bottom: 10px;
+   				padding-top: 10px;
+                font-family: "Lato", sans-serif;
+                color: #007AFF !important;
+                font-size: 15px;
+               
+            }
+            
+ #l_sub_total,#l_ship_charge,#l_total_amount,#l_term_payment,#l_swift_code
+  		{text-align:left;float:left;}
+  		
+ /* #invoice_date{color: #858585 !important;} */
+				    
+#sold{margin-bottom: 30px;} 
+
+#fig{padding-right: 0px;margin-top:20px;}
+
+
+				    
+#invoice_date,#delivery_date,#payment_date{width: -webkit-fill-available;} 
+	
+/* .t1 { padding-top: 0px;}
+.t2 { padding-top: 10px;} */
+	
+/* #td1, #td4{width :120px; text-align : center;} */
+	
+.th1, .td1{text-align : center;}
+
+.td1{text-align : center;}
+
+.td2{text-align : left;}
+	
+#td6,#td7,#td8,#td9,#td10,#td11,#td12{width :120px; text-align : right;}
+    	
+/* .well{margin-top: 0px;margin-right: 0px;} */
+
+.table-responsive {width: 100% !important;}
+
+.pd{margin-right: -30px; margin-left: -30px;}
+
+
+.p2{margin-right: -30px; margin-left: -30px;}
+
+#paymentdetails{
+   				padding-bottom: 10px;padding-top: 0px;
+
+                padding-left: 0px;padding-right: 0px;
+                margin-top: 0px;
+            }
+            
+#standardInvoice{margin-bottom: -30px;}
+
+.payer{
+   				margin-left: -17px;
+            }
+#rname {margin-bottom: 10px;}
+
+#panel_2{padding-top: 0px;}
+
+#bill {margin-top: 15px;}
+
+#plus1 {
+	color: #007AFF;
+	border: 1px solid #0088ff;
+	margin-left: 0px;
+	margin-bottom: 3px;
+}
+
+#myTab1_example1 {padding-right: 30px;padding-top: 20px;padding-left: 30px;} 
+
+#myTab1_example2 {padding-right: 30px;padding-top: 10px;padding-left: 30px;}
+
+#myTab1_example3 {padding-right: 30px;padding-top: 10px;padding-left: 30px;}
+
+#myTab1_example4 {padding-right: 30px;padding-top: 10px;padding-left: 30px;}
+
+.a2 {margin-bottom: 50px;}
+
+   
+/*   Afsana  */  
+
+
+
+
+/* -------------------------------------------Start by Maruf -------------------------------------------------*/
+
+
+	.btn-align{
+		width: 210px;
+	}
+	
+	.btn-search{
+	    background-color: #337ab7 !important;
+  		border-color: #337ab7 !important;
+   		color: #ffffff !important;
+   		margin-right: -1px;
+	}
+	
+	.btn-search:hover{
+		transition: all 0.3s ease 0s !important;
+	  	background-color: #007AFF  !important;
+  		border-color: #007AFF !important;
+  		color: #ffffff !important;
+	}
+	
+/* ------------------------------------------- End by Maruf -------------------------------------------------*/
+
+
+
